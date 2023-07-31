@@ -6,7 +6,7 @@ const config = defineConfig({
   plugins: [
     sveltepress({
       theme: defaultTheme({
-        github: ""
+        github: "https://github.com/slozano54/sveltepressTests",
         navbar: [
           // Add your navbar configs here
           {
@@ -32,8 +32,7 @@ const config = defineConfig({
               ]
             }
           ]
-        },
-        github: 'https://github.com/Blackman99/sveltepress',
+        },        
         logo: '/sveltepress.svg',
         i18n: {
           onThisPage: "Sur cette page",
