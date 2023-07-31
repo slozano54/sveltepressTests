@@ -1,0 +1,15 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/pv": [
+		"src/routes/+layout.ts"
+	],
+	"/pv/quick-start": [
+		"src/routes/+layout.ts"
+	],
+	"/pv/waza": [
+		"src/routes/+layout.ts"
+	]
+}
