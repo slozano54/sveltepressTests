@@ -6,6 +6,7 @@ const config = defineConfig({
   plugins: [
     sveltepress({
       theme: defaultTheme({
+        github: ""
         navbar: [
           // Add your navbar configs here
           {

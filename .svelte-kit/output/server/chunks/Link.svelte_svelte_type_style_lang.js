@@ -1,6 +1,6 @@
 import { w as writable } from "./index.js";
 import { t as get_store_value, c as create_ssr_component, b as compute_rest_props, f as spread, h as escape_object } from "./ssr.js";
-const themeOptions = { "navbar": [{ "title": "Petit Vert", "to": "/pv/" }], "sidebar": { "/pv/": [{ "title": "Intro", "to": "/pv/", "items": [{ "title": "waza ?", "to": "/pv/waza/" }, { "title": "quick start", "to": "/pv/quick-start/" }] }] }, "github": "https://github.com/Blackman99/sveltepress", "logo": "/sveltepress.svg", "i18n": { "onThisPage": "Sur cette page" } };
+const themeOptions = { "navbar": [{ "title": "Petit Vert", "to": "/pv/" }], "sidebar": { "/pv/": [{ "title": "Intro", "to": "/pv/", "items": [{ "title": "waza ?", "to": "/pv/waza/" }, { "title": "quick start", "to": "/pv/quick-start/" }] }] }, "github": "https://github.com/slozano54/sveltepressTests", "logo": "/sveltepress.svg", "i18n": { "onThisPage": "Sur cette page" } };
 var __spreadArray = globalThis && globalThis.__spreadArray || function(to, from, pack) {
   if (pack || arguments.length === 2)
     for (var i = 0, l = from.length, ar; i < l; i++) {

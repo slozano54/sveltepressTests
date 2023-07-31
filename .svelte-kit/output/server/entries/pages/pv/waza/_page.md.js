@@ -4,7 +4,7 @@ import "../../../../chunks/Link.svelte_svelte_type_style_lang.js";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   const fm = {
     "pageType": "md",
-    "lastUpdate": "Invalid Date",
+    "lastUpdate": "2023/07/31 09:03:56",
     "title": "Waza",
     "anchors": [
       {
